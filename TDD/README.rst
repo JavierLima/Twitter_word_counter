@@ -22,11 +22,13 @@ api = twitter.Api('ACCESS_TOKEN_KEY',
                   'CONSUMER_KEY',
                   'CONSUMER_SECRET')
 Execute tests
+
 Open the termial
 
   >>> <rutaproyecto> Python -m pytest tests/ -v
   >>> <rutaproyecto> Python -m pytest tests/test_twitter_word_counter.py -v
 Execute attepm
+
 Open the termial
 
   >>> <rutaproyecto>/top_20_tweets_counter.py
