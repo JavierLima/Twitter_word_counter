@@ -2,7 +2,7 @@ top_words_twitter_account_counter
 Gets the text written on each tuit of one account and shows the top 20 used words.
 
 @uthors
-Álvaro Lalinde 
+Ãlvaro Lalinde 
 Javier Lima
 Rafael Rey
 Rafael Manzano
@@ -29,4 +29,4 @@ Open the termial
 Execute attepm
 Open the termial
 
-  >>> <rutaproyecto>/skeleton.py
+  >>> <rutaproyecto>/top_20_tweets_counter.py
