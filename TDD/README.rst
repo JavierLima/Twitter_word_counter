@@ -28,11 +28,11 @@ Open the 'file' with a text editor and replace the text between ''.
 
 api = twitter.Api(  'ACCESS_TOKEN_KEY',
                   
-                    'ACCESS_TOKEN_SECRET',
+                     'ACCESS_TOKEN_SECRET',
 
-                    'CONSUMER_KEY',
+                     'CONSUMER_KEY',
 
-                    'CONSUMER_SECRET')
+                     'CONSUMER_SECRET')
 
 Execute tests
 
